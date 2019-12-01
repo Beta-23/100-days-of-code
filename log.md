@@ -1,30 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Thoughts** I've been coding for 5 years, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: November 29, 2019
+##### React Framework!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Learning React & React Native to build complex apps.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I really enjoyed learning the React concepts.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+   1. It's a great architecture.  It's declerative properties allows for less complexity and great performance. 
+
+   2. You build your web app like lego blocks with components (function & Classes) using JSX code.  Can't wait to utilize it.
+
+   3. Unidirectinal data flow (virtualDOM).  One way data flow, allows for ease for finding bugs in code.
+
+   4. UI libraries
+
+**Link to work:** [Career Rolodex App](http://www.example)
+
+### Day 2: November 30, 2019 
+##### Learning JSX
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Career Rolodex App](http://www.example)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
