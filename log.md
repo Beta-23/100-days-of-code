@@ -28,3 +28,12 @@
 
 **Link to work:** [Career Rolodex App](http://www.example)
 
+### Day 3: December 01, 2019 
+##### Learning about the life cycle methods
+
+**Today's Progress**: Utilized the react components to fetch json data.
+
+**Thoughts**: I learned about the methods like map() that gets call at different stages of when the component gets rendered, automatically build with react.
+
+**Link to work:** [Career Rolodex App](http://www.example)
+
