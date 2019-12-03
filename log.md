@@ -33,7 +33,16 @@
 
 **Today's Progress**: Utilized the react components to fetch json data.
 
-**Thoughts**: I learned about the methods like map() that gets call at different stages of when the component gets rendered, automatically build with react.
+**Thoughts**: I learned about the methods like map() that gets called at different stages of when the component gets rendered, automatically build with react.
+
+**Link to work:** [Career Rolodex App](http://www.example)
+
+### Day 4: December 02, 2019 
+##### Learning about the life cycle methods, Promises and the react component architecture
+
+**Today's Progress**: Utilized the react components to fetch more json data.  Organized the app file structure using best industry practices.
+
+**Thoughts**: I learned about promises that gets called pending a response.  Also, utilizing class components vs. functional components.
 
 **Link to work:** [Career Rolodex App](http://www.example)
 
